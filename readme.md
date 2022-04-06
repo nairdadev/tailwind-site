@@ -1,4 +1,4 @@
-# Tailwind CSS
+# WIP Tailwind CSS
 
 ## Instalación
 
@@ -17,10 +17,4 @@ npm install -D tailwindcss postcss autoprefixer
 3 - Iniciamos proyecto de tailwind:
 ```shell
 npx tailwindcss init
-```
-
-4 -:
-:
-:
-
-B::
+```:}
